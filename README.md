@@ -9,3 +9,7 @@ python connect1.py (斷線自動連線)
 python reversetcp.py '' 8000
 
 python reversetcp1.py (美化)
+
+## 切ip網段
+
+python ip.py
