@@ -13,3 +13,5 @@ python reversetcp1.py (美化)
 ## 切ip網段
 
 python ip.py
+
+##在cmd上將輸入字改成*****
