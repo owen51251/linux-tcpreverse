@@ -14,7 +14,7 @@ python reversetcp1.py (美化)
 
 python ip.py
 
-##在cmd上將輸入字改成*****
+## 在cmd上將輸入字改成*****
 
 passwordshield.py
 
